@@ -1,1 +1,1 @@
-# Churn data EDA and modeling
+# Churn EDA and modeling
